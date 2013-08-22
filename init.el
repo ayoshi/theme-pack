@@ -6,7 +6,7 @@
 ;; Treat all themes as safe
 (setq custom-safe-themes t)'
 
-(install-packs '(solarized
+(install-packs '(solarized-theme
                 color-theme-sanityinc-solarized
                 color-theme-sanityinc-tomorrow
                 sublime-themes))
